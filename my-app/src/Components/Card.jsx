@@ -5,7 +5,7 @@ const Card=()=>{
         <>
             <div className="card">
                 <h2>1</h2>
-                <img src="https://github.com/Kirti-salunkhe/PokemonApp/blob/main/public/images/charmander.png?raw=true" alt="charmander sprite"/>
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="charmander sprite"/>
                 <h2>Charmander</h2>
             </div>
         </>
